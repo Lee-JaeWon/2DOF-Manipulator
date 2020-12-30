@@ -12,8 +12,8 @@
 
 ## 개발 환경
 |OS|사용 언어|사용 IDE|
-|:Windows:|:C:|:Atmel Studio:|
-| | | |
+|:---:|:---:|:---:|
+| Windows | C | Atmel Studio |
 
 ## 프로젝트 개발 동기
 
