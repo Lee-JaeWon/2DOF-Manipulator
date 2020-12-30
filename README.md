@@ -20,10 +20,10 @@
 -  의족이나 웨어러블 기기에 관심이 있어 관련 기초나 지식을 경험해보기 위하여 Manipulator로 작품 선정
 
 ## 프로젝트 개요
-1.   
-2.  
-3.  
-4. 
+1. Dynamixel AX시리즈 구동(AX-12W, AX-12+)_packet 통신    
+2. 2차원에서의 역기구학 풀이 EE(End Effector)를 통한 각도 도출 코드 구현 
+3. ATmega128의 2개의 UART를 이용하여 serial 통신 및 packet 통신  
+4. serial 통신 _ 터미널 에서 좌표 입력시 모터 구동
 > - 
 > - 
 ## System Architecture
