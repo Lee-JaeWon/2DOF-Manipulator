@@ -42,10 +42,7 @@
 ## 프로젝트 결과
 
 <p align="center"><img src="https://user-images.githubusercontent.com/72693388/103347630-ddd54680-4ada-11eb-8e54-b19efe314fb0.jpg" width="500px"></p>  
-<p align="center"> 전체적인 작품의 모습 </p>  
+<p align="center"> 전체적인 작품의 모습 </p>   
 
-<p align="center"><img src=" " width="500px"></p>  
-<p align="center"> 사진2에 대한 설명 </p>  
-
-<p align="center"><img src=" " width="500px"></p>  
-<p align="center"> 사진3에 대한 설명 </p>
+<p align="center"><img src="https://user-images.githubusercontent.com/72693388/107481867-37dd2780-6bc2-11eb-85a5-1224ca77d8dc.gif" width="500px"></p>  
+<p align="center"> UART통신을 통한 구동 </p>  
