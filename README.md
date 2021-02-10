@@ -22,8 +22,7 @@
 > - 
 > - 
 ## System Architecture
-<p align="center"><img src="![system Architecture](https://user-images.githubusercontent.com/72693388/107479675-cbacf480-6bbe-11eb-8010-c7516b8a35b5.png)
-" width="600px"></p>  
+<p align="center"><img src="https://user-images.githubusercontent.com/72693388/107479675-cbacf480-6bbe-11eb-8010-c7516b8a35b5.png" width="600px"></p>  
 
 
 ### Code Overview  
